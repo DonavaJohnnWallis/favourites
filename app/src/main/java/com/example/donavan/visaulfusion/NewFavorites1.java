@@ -105,7 +105,7 @@ public class NewFavorites1 extends AppCompatActivity {
         Fav2btn.setBackgroundResource(R.drawable.button_active_heart);
         Fav3btn.setBackgroundResource(R.drawable.button_active_heart);
         Fav4btn.setBackgroundResource(R.drawable.button_active_heart);
-        Fav5btn.setBackgroundResource(R.drawable.button_active_heart);
+        Fav5btn.setBackgroundResource(R.drawable.button_notactive_heart);
         Continue.setEnabled(true);
 
         TextView tv = (TextView)findViewById(R.id.answer);
